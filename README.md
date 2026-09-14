@@ -1,5 +1,4 @@
-# LGD-Production-Quality-Report-Web
-# LG Display 생산·품질 업무 보고서 Web Service
+## LGD-Production-Quality-Report-Web
 
 **날짜: 09월 14일**
 
