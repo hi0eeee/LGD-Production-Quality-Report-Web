@@ -1,4 +1,5 @@
 ## LGD-Production-Quality-Report-Web
+<img width="493" height="398" alt="2026-09-14_171234" src="https://github.com/user-attachments/assets/4132eba4-def4-4a54-8323-f1e9af3089ce" />
 
 **날짜: 09월 14일**
 
